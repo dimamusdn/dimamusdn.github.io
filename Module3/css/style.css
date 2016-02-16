@@ -16,9 +16,7 @@ body{
     box-shadow: 0 0 5px #dbdbdb;
 }
 
-.logo{
 
-}
 .menu{
     width: 966px;
     height: 40px;
@@ -82,14 +80,16 @@ body{
     line-height: 40px;
 }
 .left-menu a{
+    display: block;
     text-decoration: none;
     color: #656363;
     margin-left: 24px;
     font-size: 15px;
 }
 .left-menu li:hover{
+    display: inline-block;
     background: #f9f9f9;
-
+    color: #2c2c2c;
 }
 .left-menu a:hover{
     color: #2c2c2c;
