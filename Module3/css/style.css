@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+body{
+    background-color: #f9f9f9;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container{
+    margin:auto;
+    width: 1060px;
+    height: 950px;
+    background-color: #ffffff;
+    box-shadow: 0 0 5px #dbdbdb;
+}
+
+.logo{
+
+}
+.menu{
+    width: 966px;
+    height: 40px;
+    margin-left:48px;
+    margin-top: 40px;
+    background: linear-gradient(to top left, #444343, #5e5e5e) ;
+}
+.logo{
+    margin-left:48px;
+
+}
+.logo img{
+    margin-top: 50px;
+}
+.menu li{
+    display: inline-block;
+    position:static;
+    line-height: 40px;
+    text-align: center;
+    padding-left: 0px;
+}
+.menu li:first-child{
+    width:120px;
+}
+.menu li:nth-child(2){
+    width:101px;
+}
+.menu li:nth-child(3){
+    width: 96px;
+}
+.menu li:last-child{
+    width: 120px;
+}
+.menu a{
+    text-decoration: none;
+    display: block;
+    color: #ffffff;
+    text-shadow: 0px 1px 1px #000000;
+    font-size: 17px;
+
+}
+.menu li:hover{
+    background: linear-gradient(to top, #000000, #4a4a4a);
+    border-left: 1px solid #838383;
+    border-right: 1px solid #838383;
+}
+.content{
+    margin-top: 40px;
+}
+.left-menu{
+    float: left;
+
+}
+.left-menu li{
+    display: block;
+    margin-left: 48px;
+    width: 240px;
+    height:40px;
+    border:1px solid #c8c8c8;
+    margin-top: -1px;
+    line-height: 40px;
+}
+.left-menu a{
+    text-decoration: none;
+    color: #656363;
+    margin-left: 24px;
+    font-size: 15px;
+}
+.left-menu li:hover{
+    background: #f9f9f9;
+
+}
+.left-menu a:hover{
+    color: #2c2c2c;
+    margin-left: 35px;
+}
+.main{
+    float: right;
+    margin-right:48px;
+}
+.main img{
+    margin-top: 50px;
+    margin-right: 90px;
+    padding-left:90px;
+    padding-bottom: 50px;
+}
+.pic{
+    border: 1px solid #c8c8c8;
+}
+.main p{
+    margin-top: 40px;
+    width: 630px;
+    font-size: 13px;
+    margin-left: 25px;
+    line-height: 22px;
+}
+.footer{
+    background: #e1e1e1;
+    height: 40px;
+    width: 966px;
+    margin-top: 688px;
+    margin-left: 48px;
+}
+.footer li{
+    display: inline-block;
+    position:static;
+    line-height: 40px;
+    text-align: center;
+    padding-left: 0px;
+}
+.footer li:first-child{
+    width:120px;
+}
+.footer li:nth-child(2){
+    width:101px;
+}
+.footer li:nth-child(3){
+    width: 96px;
+}
+.footer li:last-child{
+    width: 120px;
+}
+.footer a{
+    text-decoration: none;
+    display: block;
+    color: #000000;
+    font-size: 17px;
+
+}
+.footer li:hover{
+    text-decoration: underline;
+}
+.footer p{
+    float:right;
+    line-height: 40px;
+    margin-right:25px;
+}
