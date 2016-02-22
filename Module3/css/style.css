@@ -1,8 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 *{
     margin: 0;
     padding: 0;
 }
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 body{
     background-color: #f9f9f9;
     font-family: 'Open Sans', sans-serif;
@@ -31,8 +31,10 @@ body{
 .logo img{
     margin-top: 50px;
 }
+
 .menu li{
     display: inline-block;
+    box-sizing: border-box;
     position:static;
     line-height: 40px;
     text-align: center;
@@ -55,13 +57,14 @@ body{
     display: block;
     color: #ffffff;
     text-shadow: 0px 1px 1px #000000;
-    font-size: 17px;
+    font-size: 13px;
 
 }
 .menu li:hover{
     background: linear-gradient(to top, #000000, #4a4a4a);
     border-left: 1px solid #838383;
     border-right: 1px solid #838383;
+
 }
 .content{
     margin-top: 40px;
@@ -133,19 +136,23 @@ body{
     width:120px;
 }
 .footer li:nth-child(2){
-    width:101px;
+    width:115px;
 }
 .footer li:nth-child(3){
-    width: 96px;
+    width: 110px;
+}
+.footer li:nth-child(4){
+    width: 130px;
 }
 .footer li:last-child{
-    width: 120px;
+    float: right;
+    margin-right: 50px;
 }
 .footer a{
     text-decoration: none;
     display: block;
     color: #000000;
-    font-size: 17px;
+    font-size: 13px;
 
 }
 .footer li:hover{
