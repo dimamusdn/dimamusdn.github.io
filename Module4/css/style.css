@@ -12,12 +12,12 @@ body{
 .wrapper{
     width: 1000px;
     height: 906px;
-    margin: 0 auto 30px;
+    margin: 37px auto;
     background-color: white;
     box-shadow: 1px 5px 15px 1px #000000;
 }
 .header{
-    h165px;
+    height: 165px;
     color: #128aa7;
     padding: 10px 20px 0;
 }
