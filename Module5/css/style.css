@@ -1,0 +1,72 @@
+@import "reset.css";
+body{
+    font-family: Tahoma, Arial, sans-serif;
+    height: 1215px;
+    background: url('../img/bg.png')95% 95% no-repeat;
+    background-size: cover;
+}
+.header{
+    height: 35px;
+    background-color: #074f8d;
+}
+.menu{
+    display: inline-block;
+    float: right;
+}
+.menu ul{
+    display: inline-block;
+    border-right: 1px solid  #60b5ed;
+}
+.menu li{
+    display: inline-block;
+}
+.menu li a{
+    color: #60b5ed;
+    font-size: 14px;
+    text-decoration: none;
+    line-height: 35px;
+    padding: 10px 15px 9px;
+}
+.menu li a:hover, .minh:hover{
+    color:white;
+    background-color: #60b5ed;
+}
+.minh{
+    display: inline-block;
+    float:right;
+}
+
+.minh a {
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+    padding: 10px 15px 0px;
+    line-height: 35px;
+}
+
+.minh a:before {
+    content: '';
+    display: block;
+    float: left;
+    margin-top: 7px;
+    margin-left: 20px;
+    width: 21px;
+    height: 23px;
+    background: url('../img/flag.png') no-repeat;
+}
+.ola{
+    display: block;
+    float: right;
+    background: linear-gradient(to bottom, #50afdc, #2e7ac4);
+    line-height: 33px;
+    border: 1px solid #4299d2;
+    border-radius:1px;
+    font-size: 14px;
+    color:white;
+    padding: 0px 10px;
+    margin-right: 15px;
+}
+.ola a{
+    color:white;
+    padding:5px;
+}
