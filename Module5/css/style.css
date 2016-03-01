@@ -1,9 +1,13 @@
 @import "reset.css";
 body{
     font-family: Tahoma, Arial, sans-serif;
-    height: 1215px;
-    background: url('../img/bg.png')95% 95% no-repeat;
+    /*height: 1215px;*/
+    background: url('../img/bg.png')50% 70% no-repeat;
     background-size: cover;
+}
+.wrapper{
+    width: 1920px;
+    height:945px;
 }
 .header{
     height: 35px;
@@ -67,7 +71,7 @@ body{
     margin-right: 15px;
 }
 .content{
-    margin-top: 215px;
+    margin-top: 167px;
 }
 .ola a{
     color:white;
@@ -147,7 +151,8 @@ button{
     border-radius: 2px;
 }
 .footer{
-    margin-top: 10px;
+    margin-top: 10px
+    ;
 }
 .footer p{
     font-size: 11px;
