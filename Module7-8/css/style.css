@@ -1,5 +1,5 @@
 @import "reset.css";
-@import "media.css";
+
 /*@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);*/
 @font-face {
     font-family: 'LeagueGothic';
@@ -430,21 +430,4 @@ footer{
 
 .dis span{
     font-family: 'Sans ExtraBold';
-}
-@media (max-width:960px) and (min-width:768px) {
-    .menu{
-        width: 768px;
-    }
-    .logo{
-        display: block;
-        float: left;
-        margin-left: 20px;
-    }
-    .menu ul{
-        margin-left: 0px;
-    }
-    .menu li{
-
-        float: left;
-    }
 }
