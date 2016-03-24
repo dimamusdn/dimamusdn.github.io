@@ -1,0 +1,450 @@
+@import "reset.css";
+@import "media.css";
+/*@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);*/
+@font-face {
+    font-family: 'LeagueGothic';
+    src: url("../fonts/LeagueGothic-Regular.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'Sans Light';
+    src: url("../fonts/OpenSans-Light.ttf");
+    font-weight: lighter;
+    font-style: lighter;
+}
+@font-face {
+    font-family: 'Sans ExtraBold';
+    src: url("../fonts/OpenSans-ExtraBold.ttf");
+    font-weight: bolder;
+}
+body{
+    background: url("../img/background.jpg") repeat-x;
+
+    background-position: 0 0px center;
+}
+.wrapper{
+    margin: 0 auto;
+}
+header{
+
+    height: 845px;
+    margin-top: -20px;
+}
+nav{
+    float: right;
+    height: 279px;
+}
+.menu{
+    width: 960px;
+    margin: 0 auto;
+}
+.menu li{
+    float: left;
+    display: inline-block;
+    margin-top: 75px;
+    text-transform: uppercase;
+    padding-left: 50px;
+}
+.menu a{
+    font-family: 'LeagueGothic';
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    text-decoration: none;
+    text-shadow: 0 0 4px grey;
+}
+.menu a:hover{
+    border-bottom: 3px solid #edbfff;
+}
+.logo{
+    float: left;
+    margin-top: 50px;
+}
+.slider-line{
+    clear: both;
+    height: 400px;
+    width: auto;
+    background: rgba(20, 0, 0, 0.2);
+}
+.slider{
+    width: 960px;
+    margin: 0 auto;;
+}
+.slider-text{
+    margin-top: 78px;
+    float: left;
+}
+.title, .stitle{
+    font-family: 'LeagueGothic';
+    text-shadow: 0 0 4px rgb(71, 71, 71);
+}
+.title{
+    font-size: 60px;
+    color: white;;
+}
+.stitle{
+    font-size: 32px;
+    color:#edbfff;
+}
+.text{
+    font-size: 16px;
+    font-family: 'Sans Light', lighter;
+    color: white;
+    width: 495px;
+    text-shadow: 0 0 4px rgb(71, 71, 71);
+    line-height: 25px;
+    margin-top: 5px;
+}
+.iphone{
+    float: right;
+    position: relative;
+    top: -18px;
+    left: -42px;
+}
+
+.about{
+    height: 343px;
+    box-sizing: border-box;
+    background: url("../img/bg1.jpg");
+    background-repeat: repeat-x;
+    border-top: 1px solid black;
+    border-bottom: 1px solid white;
+}
+
+.about-container{
+    height: 340px;
+    width: 250px;
+    display: inline-block;
+    margin-top: 78px;
+    padding-left: 96px;
+}
+.container2{
+    padding-left: 85px;
+}
+.container3{
+    padding-left: 82px;
+}
+.box{
+    margin: 0 auto;
+    width: 1024px;
+}
+.about-title, .about-text, .readmore{
+    color: white;
+    text-shadow: 2px 1px 0 black;
+}
+.about-title{
+    font-family: 'LeagueGothic';
+    font-size: 30px;
+}
+
+.about-text{
+    font-family: 'Sans Light', lighter;
+    font-size: 16px;
+    line-height: 26px;
+}
+.readmore{
+    font-family: 'LeagueGothic';
+    float: right;
+    font-size: 18px;
+    margin-top: -6px;
+    text-decoration: none;
+    padding-right: 34px;;;
+}
+.readmore:hover{
+    text-shadow: 0 0 10px white;
+}
+.icon1,.icon2,.icon3{
+    position: relative;
+}
+.icon1:before{
+    content:'';
+    background: url("../img/key.png") no-repeat;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: -52px;
+    top:7px;
+}
+.icon2:before{
+    content:'';
+    background: url("../img/cloud.png") no-repeat;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: -55px;
+    top:6px;
+}
+.icon3:before{
+    content:'';
+    background: url("../img/note.png") no-repeat;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: -54px;
+    top:6px;
+}
+.updates{
+    height: 485px;
+    background: #f9f9f9;
+    box-sizing: border-box;
+    border-bottom: 1px solid #e6e6e6;
+    position:relative;
+}
+.updates-content{
+
+    width: 960px;
+    height: 485px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+.start{
+    float: left;
+    height: inherit;
+    width: 434px;
+    background: url('../img/bigcloud.png') no-repeat;
+    margin-left: 21px;
+}
+.recent-updates{
+    float: right;
+    height: inherit;
+    width: 470px;
+    margin-top: 30px;
+    margin-right: -22px;
+}
+.start-title span{
+    margin-top: 30px;
+    font-size: 30px;
+    font-family: 'LeagueGothic';
+}
+.start-title p{
+    margin-top: 30px;
+    font-size: 30px;
+    font-family: 'LeagueGothic';
+    margin-left: 42px;
+}
+.start-title{
+    position: relative;
+}
+.start-title:before{
+    content:'';
+    position: absolute;
+    float: left;
+    background: url("../img/man.png") no-repeat;
+    width: 50px;
+    height: 50px;
+    left: -20px;
+    top: -11px;
+}
+.start-title span{
+    color:#edbfff;
+}
+.start-text{
+    font-size: 16px;
+    color: #2d2b2b;
+    font-family: 'Sans Light', lighter;
+    margin-left: 42px;
+    margin-top: 10px;
+    line-height: 24px;
+}
+.updates-title{
+    font-family: 'LeagueGothic';
+    font-size: 30px;
+    color: #454545;
+    margin-bottom: 30px;
+    margin-left: -2px;
+}
+.news-title,.news-text{
+    font-size: 16px;
+    color: #454545;
+    margin-left: 65px;
+    margin-top: 0px;
+}
+.news-title{
+    font-family: 'Sans ExtraBold';
+
+}
+.news-text{
+    font-family: 'Sans Light';
+    line-height:45px;
+}
+.news1,.news2,.news3{
+    position: relative;;;
+}
+.news1{
+    margin-top: 1px;
+}
+.news1 .news-title{
+    margin-top: -11px
+}
+.news1 .news-text{
+    margin-top: -6px
+}
+.news2 .news-title{
+    margin-top: 14px
+}
+.news2 .news-text{
+    margin-top: -6px
+}
+.news3 .news-title{
+    margin-top: 10px
+}
+.news3 .news-text{
+    margin-top: -6px
+}
+
+.news1:before{
+    content: '';
+    display: block;
+    position: absolute;
+    float: left;
+    width: 49px;
+    height: 49px;
+    background: url('../img/news1.png');
+    top: -3px;
+}
+.news2:before{
+    content:'';
+    display: block;
+    position: absolute;
+    float: left;
+    width: 49px;
+    height: 49px;
+    background: url('../img/news2.png');
+    top:-5px;
+}
+.news3:before{
+    content:'';
+    display: block;
+    position: absolute;
+    float: left;
+    width: 49px;
+    height: 49px;
+    background: url('../img/news3.png');
+    top:-5px;
+}
+.recent-updates .readmore{
+    color: #454545;
+    text-shadow: 0 0 0 black;
+    text-transform: uppercase;
+    margin-top: 14px;
+    margin-right: 10px;
+}
+.sponsors{
+    height: 120px;
+    background: #f9f9f9;
+    border-bottom: 1px solid #e6e6e6;
+    margin-right: 11px
+}
+.sponsors-box{
+    width: 961px;
+    height: inherit;
+    margin: 0 auto;
+    background: url("../img/sponsors.png");
+}
+footer{
+    height: 395px;
+    background: #ececec;
+}
+.footer-content{
+    clear: both;
+    width: 965px;
+    margin: 0 auto;
+    height: inherit;
+}
+.first-column{
+    float: left;
+    padding-top: 86px;
+    margin-left: -6px;
+    width: 290px;
+}
+.copy{
+    margin-left: 7px;
+    font-family: 'Georgia';
+    font-style: italic;
+    font-size: 16px;
+    color:#9f9f9f;
+    margin-top: 10px;
+}
+
+.footer-text{
+    color: #676565;
+    margin-top: 12px;
+    font-family:'Sans Light';
+    margin-left: 7px;
+    font-size: 16px;
+    line-height: 25px;
+}
+.recent-comments{
+    float: left;
+    padding-top: 100px;
+    width: 300px;
+    margin-left: 59px;
+    margin-top: -10px;
+}
+.comments-text{
+    color: #676565;
+    margin-top: -22px;
+    font-family:'Sans Light';
+    margin-left: -1px;
+    font-size: 16px;
+    line-height: 25px;
+}
+.news-categories{
+    padding-top: 90px;
+    float: left;
+    margin-left: 41px;
+}
+.bottom-menu{
+    margin-top: -7px;
+    height: 115px;
+    background: url("../img/footer.jpg");
+}
+.footer-menu{
+    width: 960px;
+    margin: 0 auto;
+}
+
+.footer-menu li{
+    float: left;
+    display: inline-block;
+    margin-top: 49px;
+    text-transform: uppercase;
+    padding-right: 45px;
+}
+.footer-menu a{
+    font-family: 'LeagueGothic';
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+    text-decoration: none;
+    text-shadow: 0 0 4px grey;
+}
+.dis{
+    float: right;
+    line-height: 115px;
+    font-size: 12px;
+    font-family: 'Sans Light';
+    color: #fff;
+    margin-top: 3px;
+    margin-right: -2px;
+}
+
+.dis span{
+    font-family: 'Sans ExtraBold';
+}
+@media (max-width:960px) and (min-width:768px) {
+    .menu{
+        width: 768px;
+    }
+    .logo{
+        display: block;
+        float: left;
+        margin-left: 20px;
+    }
+    .menu ul{
+        margin-left: 0px;
+    }
+    .menu li{
+
+        float: left;
+    }
+}
