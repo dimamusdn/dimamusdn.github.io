@@ -1,0 +1,59 @@
+body{
+    background: #777777;
+}
+table{
+    border-collapse: collapse;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+td, tr{
+    border: 10px solid black;
+    border-collapse: collapse;
+    height: 80px;
+    width: 80px;
+    padding: 5px;
+}
+.blue{
+    background: blue;
+}
+.red{
+    background: red;
+}
+.white, .bottom-left{
+    background: white;
+}
+.left{
+    border-left: 0;
+    background: white;
+}
+.right{
+    border-right: 0;
+}
+.yellow, .top-right,.yellow .bottom-left{
+    background: yellow;
+}
+.top-left, .top-center{
+    background: #fff;
+}
+.black{
+    background: #000;
+}
+.top-left{
+    border-left: 0;
+    border-top: 0;
+}
+.top-right{
+    border-right: 0px;
+    border-top: 0;
+}
+.bottom-left{
+    border-left: 0px;
+    border-bottom: 0px;
+}
+.bottom-right{
+    border-bottom: 0px;
+    border-right: 0px;
+}
+.top-center{
+    border: 0px;
+}
