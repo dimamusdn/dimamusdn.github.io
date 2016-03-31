@@ -6,7 +6,7 @@ function pow(a, b) {
 var a=prompt('Число=');
     if(Math.round(a)==a){
         var b= prompt('Степень=');
-            if(Math.round(b) != b)
+            if(Math.round(b) != b){
                 alert=("Not integer");
             }
     }else{
