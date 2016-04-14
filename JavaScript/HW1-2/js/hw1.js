@@ -1,15 +1,25 @@
-function pow(a, b) {
-    var res;
-        res = Math.pow(a, b);
-            return res;
+function varDeclaration() {
+    var num = prompt('Num=');
+    var exp = Math.round(prompt('Exp=',0));
+    var res = pow(num, exp);
 }
-var a = prompt('Число=');
-if (Math.round(a) == a) {
-    var b = prompt('Степень=');
-        if (Math.round(b) != b) {
-            alert = ("Not integer");
-        }
-    } else {
-        alert("Not integer");
+function pow(num, exp) {
+    var res = num;
+    if (isNaN(exp)) {
+        alert('exp is not a number');
     }
-console.log(pow(a, b));
+    if (exp == 0) {
+        res = 1;
+    }
+    if (isNaN(num)) {
+        alert('num is not a number');
+    }
+    if(exp < 0){
+        res = 1/res;
+    }
+    for (var i = 1; i < exp; i++) {
+        res *= num;
+    }
+    alert(res);
+}
+varDeclaration();
