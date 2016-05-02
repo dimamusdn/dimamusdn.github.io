@@ -39,7 +39,7 @@ body{
     position:static;
     line-height: 40px;
     text-align: center;
-    padding-left: 0px;
+    /*padding-left: 0px;*/
 }
 .menu li:first-child{
     width:120px;

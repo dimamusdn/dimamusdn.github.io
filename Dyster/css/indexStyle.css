@@ -1,0 +1,35 @@
+body{
+    background: url("../img/dyster.jpg");
+    font-family: Thaoma, sans-serif;
+    color:white;
+}
+.wrapper{
+    width:1000px;
+    margin: 0 auto;
+}
+.header{
+    margin-top:75px;
+}
+.logo{
+    float: left;
+}
+.top-menu a{
+    margin-top:10px;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    line-height: 30px;
+}
+.top-menu ul{
+    float: right;
+}
+.top-menu li{
+    line-height:30px;
+    display: inline-block;
+    margin-left: 75px;
+}
+.top-menu li a:hover{
+    border-bottom: 2px solid rgb(255, 20, 147);
+}
+.top-menu{
+}
