@@ -2,104 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e815ae7-9243-4fe8-b865-8238bcd39e7a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/hw10-11/css/cusel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/hw10-11/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/hw10-11/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/hw10-11/js/cusel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/hw10-11/js/jScrollPane.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/hw10-11/js/jquery.checkbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/hw10-11/js/jquery.color.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/hw10-11/js/jquery.jcarousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/hw10-11/js/jquery.mousewheel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/hw10-11/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/hw13-14/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/hw13-14/js/scrpt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/hw7-8/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/hw7-8/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/hw7-8/scc/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/hw7-8/scc/style.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module1-2/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module1-2/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module1-2/pic/me.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module3/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module3/fonts/OpenSans.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module3/img/bycle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module3/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module3/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module4/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module4/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module4/img/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module4/img/banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module4/img/bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module4/img/butan.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module4/img/googlehead.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module4/img/india.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module4/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module4/img/maldivi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module4/img/nepal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module4/img/shri-lanka.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module4/img/tibet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module4/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module5/Cadastre/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module5/Cadastre/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module5/Cadastre/img/OU.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module5/Cadastre/img/bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module5/Cadastre/img/fb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module5/Cadastre/img/flag.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module5/Cadastre/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module5/Mondrian's_Picture/pic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module5/Mondrian's_Picture/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module5/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module6/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module6/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module6/img/auto.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module6/img/banner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module6/img/factory.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module6/img/goodyear.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module6/img/hank.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module6/img/icon-disk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module6/img/icon-katalog.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module6/img/korzina.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module6/img/nokian.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module6/img/phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module6/img/sponsor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module6/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/css/ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/fonts/LeagueGothic-Regular.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/fonts/OpenSans-ExtraBold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/fonts/OpenSans-Light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/fonts/leaguegothic-regular-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/fonts/leaguegothic-regular-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/fonts/leaguegothic-regular-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/fonts/leaguegothic-regular-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/avtor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/bigcloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/blue-pole-480.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/blue-pole.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/footer-bg-768.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/footer-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/header-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/icon-item.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/icon1-avtor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/icon2-avtor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/icon3-avtor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/iphone-480.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/logos-320.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/logos-768.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/logos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/logos480.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/polosa-i8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/sprite-check.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/sprite-check2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/img/strelki.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Module7-8/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaScript/HW5-6/index.html" afterPath="$PROJECT_DIR$/JavaScript/HW5-6/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaScript/HW5-6/js/script.js" afterPath="$PROJECT_DIR$/JavaScript/HW5-6/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dyster/css/indexStyle.css" afterPath="$PROJECT_DIR$/Dyster/css/indexStyle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dyster/pages/index.html" afterPath="$PROJECT_DIR$/Dyster/pages/index.html" />
     </list>
     <ignored path="dimamusdn.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -120,13 +27,44 @@
     <favorites_list name="dimamusdn.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dyster/pages/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="indexStyle.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dyster/css/indexStyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.bxslider.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dyster/css/jquery.bxslider.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="152" column="63" selection-start-line="152" selection-start-column="63" selection-end-line="152" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -157,6 +95,13 @@
         <option value="$PROJECT_DIR$/JavaScript/hw10-11/index.html" />
         <option value="$PROJECT_DIR$/JavaScript/hw10-11/css/cusel.css" />
         <option value="$PROJECT_DIR$/JavaScript/hw10-11/css/style.css" />
+        <option value="$PROJECT_DIR$/slider/index.html" />
+        <option value="$PROJECT_DIR$/slider/css/style.css" />
+        <option value="$PROJECT_DIR$/slider/css/jquery.bxslider.css" />
+        <option value="$PROJECT_DIR$/Dyster/css/page.css" />
+        <option value="$PROJECT_DIR$/Dyster/css/indexStyle.css" />
+        <option value="$PROJECT_DIR$/Dyster/css/jquery.bxslider.css" />
+        <option value="$PROJECT_DIR$/Dyster/pages/index.html" />
       </list>
     </option>
   </component>
@@ -200,8 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -210,8 +153,70 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dimamusdn.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dimamusdn.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dimamusdn.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dimamusdn.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dyster" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dimamusdn.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dimamusdn.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dyster" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dimamusdn.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dimamusdn.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dyster" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,7 +226,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AVEO\dimamusdn.github.io\slider\css" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AVEO\dimamusdn.github.io\Dyster\js" />
+      <recent name="C:\Users\AVEO\dimamusdn.github.io\Dyster\img" />
+      <recent name="C:\Users\AVEO\dimamusdn.github.io\Dyster\css" />
       <recent name="C:\Users\AVEO\dimamusdn.github.io\JavaScript\hw7-8\scc" />
     </key>
   </component>
@@ -275,17 +286,19 @@
       <workItem from="1462023723743" duration="1173000" />
       <workItem from="1462191872405" duration="1290000" />
       <workItem from="1462215784772" duration="438000" />
+      <workItem from="1462284052886" duration="12000" />
+      <workItem from="1462284177357" duration="8639000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6241000" />
+    <option name="totallyTimeSpent" value="14892000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16311301" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16471216" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -339,48 +352,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw7-8/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw13-14/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw13-14/js/scrpt.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw7-8/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/HW1-2/js/hw1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/index.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw7-8/index.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw13-14/index.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw13-14/js/scrpt.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw7-8/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/HW1-2/js/hw1.js" />
     <entry file="file://$USER_HOME$/PhpstormProjects/untitled/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -388,144 +365,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/HW1-2/HW1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/HW3-4/js/scriptt.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/HW1-2/HW1.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/HW3-4/js/scriptt.js" />
     <entry file="file://$PROJECT_DIR$/JavaScript/HW5-6/js/npm.js" />
-    <entry file="file://$PROJECT_DIR$/JavaScript/HW5-6/index.html">
+    <entry file="file://$PROJECT_DIR$/JavaScript/HW5-6/index.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw7-8/scc/reset.css" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw7-8/scc/style.css" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw7-8/index.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw13-14/js/scrpt.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw13-14/index.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw7-8/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/HW5-6/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/js/cusel.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/js/jquery.mousewheel.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/js/jScrollPane.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/js/jquery.jcarousel.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/js/jquery.color.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/js/jquery.checkbox.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/css/cusel.css" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/index.html" />
+    <entry file="file://$PROJECT_DIR$/Dyster/js/jquery.bxslider.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw7-8/scc/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="830">
-          <caret line="86" column="49" selection-start-line="86" selection-start-column="49" selection-end-line="86" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw7-8/scc/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="830">
-          <caret line="113" column="1" selection-start-line="113" selection-start-column="1" selection-end-line="113" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw7-8/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw13-14/js/scrpt.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-4440">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw13-14/index.html">
+    <entry file="file://$PROJECT_DIR$/slider/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="852">
-          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        <state relative-caret-position="40">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw7-8/js/script.js">
+    <entry file="file://$PROJECT_DIR$/slider/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
+        <state relative-caret-position="400">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="27" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/HW5-6/js/script.js">
+    <entry file="file://$PROJECT_DIR$/Dyster/css/page.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        <state relative-caret-position="460">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/js/cusel.js">
+    <entry file="file://$PROJECT_DIR$/Dyster/css/jquery.bxslider.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1577">
-          <caret line="568" column="1" selection-start-line="568" selection-start-column="1" selection-end-line="568" selection-end-column="1" />
+        <state relative-caret-position="271">
+          <caret line="152" column="63" selection-start-line="152" selection-start-column="63" selection-end-line="152" selection-end-column="63" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/js/jquery.mousewheel.js">
+    <entry file="file://$PROJECT_DIR$/Dyster/css/indexStyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1660">
-          <caret line="83" column="11" selection-start-line="83" selection-start-column="11" selection-end-line="83" selection-end-column="11" />
+        <state relative-caret-position="690">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/js/jScrollPane.js">
+    <entry file="file://$PROJECT_DIR$/Dyster/pages/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="471" column="11" selection-start-line="471" selection-start-column="11" selection-end-line="471" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/js/jquery.jcarousel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="1468" column="21" selection-start-line="1468" selection-start-column="21" selection-end-line="1468" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/js/jquery.color.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="122" column="11" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/js/jquery.checkbox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/css/cusel.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="73" column="48" selection-start-line="73" selection-start-column="48" selection-end-line="73" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5540">
-          <caret line="277" column="1" selection-start-line="277" selection-start-column="1" selection-end-line="277" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/hw10-11/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+        <state relative-caret-position="621">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
