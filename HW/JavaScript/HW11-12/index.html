@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ru-UA">
+<head>
+    <meta charset="UTF-8">
+    <title>ДЗ № 11-12 JS</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/myCarousel.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://code.jquery.com/jquery.js"></script>
+    <script src="js/tmpl.js" charset="utf-8"></script>
+    <script src="js/myCarousel.js" charset="utf-8"></script>
+    <script src="js/script.js" charset="utf-8"></script>
+</head>
+<body>
+    <script type="text/template" id="my-carousel-template">
+        <ul>
+            <% for (var i = 0; i < items.length; i++) { %>
+            <li><img src="img/<%= items[i].filename %>" alt=""><p><%= items[i].caption %></p></li>
+            <% }; %>
+        </ul>
+    </script>
+    <div class="my-carousel">
+        <div class="carousel-left">Влево</div>
+        <div class="carousel-right">Вправо</div>
+    </div>
+
+    </div>
+</body>
+</html>
