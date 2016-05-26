@@ -10,7 +10,7 @@
             item.caption = 'Элемент ' + i;
             data.items.push(item);
         }
-        data.items[9].caption = 'Кот';
+        data.items[9].caption = 'Жора';
 
         // Преобразовать шаблон в HTML
         var listTemplate = $('#my-carousel-template').html();
